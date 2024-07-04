@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://yourusername.github.io/Zyss/logo.png" alt="Zyss Logo" width="200">
+  <img src="https://faizyee.github.io/Zyss/logo.png" alt="Zyss Logo" width="200">
 </p>
 
 # Zyss CSS Framework
